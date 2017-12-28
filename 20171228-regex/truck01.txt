@@ -1,0 +1,25 @@
+display > e1
+Site Name   : Chicago IL                  Seq Number     : 111
+Mile Mrkr   : 304.40                      DB Index #     : 171
+
+Direction   : South                       Arrival        : 00:02  09-22-2017
+Speed In/Out: 33/18 MPH                   Departure      : 00:03:45
+Slow Speed  : 38 MPH                      Approach Speed : 0 MPH
+                                          Approach Length: ~0.0 Feet
+
+Amb Temp    : 81 F                        Battery Voltage: 12.03
+
+Axles       : 5                           Truck Length   : 56.0 Feet
+Alarms      : 0                           Cars           : 1
+Integ Fails : 0                           Gate A Cnt     : 1
+System Warn : 0                           Gate B Cnt     : 1
+Weight      : 72000
+HBD Filter  : 13 Point Median Filter
+Car   Axle   Weight   Ch1   Ch2
+Num    Num   (LBS)    (F)   (F)   Alarms
+-------------------------------------------------------------- Weight Units = LBS
+  1      1    17000.0   N/A   N/A
+         2    17000.0   N/A   N/A
+         3    17000.0   N/A   N/A
+         4    17000.0     0     0
+         5    17000.0     0     0
