@@ -86,3 +86,5 @@ $datestring = $startDate.ToString("yyyyMMdd")
 $fileName = ("c:\PBIAuditLogs\" + $datestring + ".csv")
 Write-Host (" writing to file {0}" -f $fileName)
 $data | Export-csv $fileName
+
+Remove-PSSession -Id $Session.Id
